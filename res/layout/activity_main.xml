@@ -19,7 +19,21 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="Shake your phone to play ERRRROOOU"
+        android:text="Balance o telefone para ERRRROOOU"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:shadowColor="#000000"
+        android:shadowDx="0.0"
+    	android:shadowDy="0.0"
+    	android:shadowRadius="2.0"
+    	android:textSize="18sp"
+        android:fontFamily="sans-serif-medium" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:text="Deslize para esquerda para TÁ PEGANO FOGO"
         android:textColor="#FFFFFF"
         android:textStyle="bold"
         android:shadowColor="#000000"
